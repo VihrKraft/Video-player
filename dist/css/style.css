@@ -1,6 +1,7 @@
 button {
     border-style: hidden;
     cursor: pointer;
+    color: white;
 }
 .button_block {
     background-color: black;
