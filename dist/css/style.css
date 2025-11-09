@@ -11,9 +11,6 @@
     background-color: black;
     display: flex;
 }
-.fa {
-    margin: 12px 8px;
-}
 .player {
     width: 800px;
     height: 600px;
