@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 .player-button {
     border-style: hidden;
     cursor: pointer;
-    color: white;
     background-color: black;
     font-size: 20px;
     width: 32px;
     height: 43px;
-    margin-bottom: -1px;
+    color: white;
 }
 .buttons_block {
     background-color: black;
@@ -18,15 +20,33 @@
     box-shadow: 0 0 15px black;
     display: flex;
     flex-direction: column;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
 }
 .video-container {
     flex-grow: 1;
 }
-.empty-space {
-    flex-grow: 1;
+.slider {
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+}
 .sound-button {
-    margin-left: 7px;
+    margin-left: 2px;
 }
 .fullscreen-button {
-    margin-right: 4px;
+    margin-right: 3px;
+}
+.play-button {
+    margin-left: 2px;
+}
+.viewing-panel {
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-grow: 1;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3px;
 }
