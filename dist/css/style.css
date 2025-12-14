@@ -3,9 +3,10 @@
     cursor: pointer;
     color: white;
     background-color: black;
-    font-size: 24px;
-    width: 50px;
-    height: 50px;
+    font-size: 20px;
+    width: 32px;
+    height: 43px;
+    margin-bottom: -1px;
 }
 .buttons_block {
     background-color: black;
@@ -23,4 +24,9 @@
 }
 .empty-space {
     flex-grow: 1;
+.sound-button {
+    margin-left: 7px;
+}
+.fullscreen-button {
+    margin-right: 4px;
 }
