@@ -1,8 +1,10 @@
 # Видеоплеер
 
-Проект представляет из себя простенький видеоплеер.
+Проект представляет из себя простенький [видеоплеер](https://vihrkraft.github.io/Video-player/dist/).
 
-[![Видеоплеер](Player.png)](https://vihrkraft.github.io/Video-player/dist/)
+![Видеоплеер](Player.png)
+
+[Демоверсия плеера](https://github.com/devmanorg/video-player-jslib)
 
 ### Как установить
 
